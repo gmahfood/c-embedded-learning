@@ -16,6 +16,7 @@ This is my personal learning repository documenting my journey from little C kno
 - [x] Variables, data types, operators
 - [x] Control flow (if, loops, switch)
 - [x] Printf format specifiers and float precision
+- [x] Character input, getchar(), EOF, and data type sizing
 - [ ] Functions and scope
 - [ ] Arrays and strings
 - [ ] Pointers and memory
@@ -111,6 +112,7 @@ clang filename.c -o filename && ./filename
 | 2026-03-17 | Repo created, Hello World running |
 | 2026-03-17 | Temperature conversion table — K&R Chapter 1 (variables, while loop, printf format specifiers, integer division) |
 | 2026-03-17 | Float temperature conversion — K&R Chapter 1 (float vs int, FPU awareness, printf width and precision specifiers) |
+| 2026-03-18 | Character counter — K&R Chapter 1 (getchar, EOF, long vs int, byte-by-byte input reading) |
 
 ---
 
