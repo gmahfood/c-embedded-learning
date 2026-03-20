@@ -115,6 +115,7 @@ clang filename.c -o filename && ./filename
 | 2026-03-17 | Float temperature conversion — K&R Chapter 1 (float vs int, FPU awareness, printf width and precision specifiers) |
 | 2026-03-18 | Character counter — K&R Chapter 1 (getchar, EOF, long vs int, byte-by-byte input reading) |
 | 2026-03-19 | Line counter — K&R Chapter 1 (if statements, character comparison, char vs int, newline detection) |
+| 2026-03-19 | Learned how Git commits and contributions work — committing files separately for granular history |
 
 ---
 
