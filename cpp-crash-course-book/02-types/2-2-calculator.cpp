@@ -36,6 +36,6 @@ struct Calculator {
                     return x / y;
                 }
                 
-        };
-    };
+        }
+    }
 };
